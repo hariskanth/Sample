@@ -1,0 +1,20 @@
+[
+    {
+        "product_name": "Oreo Biscuit",
+        "brand": "Mondelez",
+        "category": "Biscuit",
+        "ingredients": "Wheat Flour, Sugar, Palm Oil, Cocoa"
+    },
+    {
+        "product_name": "Lays Classic",
+        "brand": "PepsiCo",
+        "category": "Chips",
+        "ingredients": "Potatoes, Vegetable Oil, Salt"
+    },
+    {
+        "product_name": "Dairy Milk",
+        "brand": "Cadbury",
+        "category": "Chocolate",
+        "ingredients": "Milk Solids, Sugar, Cocoa Butter"
+    }
+]
